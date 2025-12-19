@@ -1,0 +1,5 @@
+I:/Programming/PF/minecraft mod/MusicPlayer/build/CMakeFiles/MusicPlayer.dir
+I:/Programming/PF/minecraft mod/MusicPlayer/build/CMakeFiles/edit_cache.dir
+I:/Programming/PF/minecraft mod/MusicPlayer/build/CMakeFiles/rebuild_cache.dir
+I:/Programming/PF/minecraft mod/MusicPlayer/build/CMakeFiles/MusicPlayer_autogen_timestamp_deps.dir
+I:/Programming/PF/minecraft mod/MusicPlayer/build/CMakeFiles/MusicPlayer_autogen.dir
